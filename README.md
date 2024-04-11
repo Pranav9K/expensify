@@ -1,1 +1,1 @@
-A simple finance mananager.
+A simple finance manager.
