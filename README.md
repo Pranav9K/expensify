@@ -1,1 +1,1 @@
-A simple finance mn=anager.
+A simple finance mananager.
