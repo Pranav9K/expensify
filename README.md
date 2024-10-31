@@ -1,1 +1,1 @@
-A simple finance manager.
+OS built on CustomTK
